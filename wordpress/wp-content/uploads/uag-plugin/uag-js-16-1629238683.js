@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function(){ 			jQuery( document ).ready(function() {
+				UAGBForms.init( {"block_id":"5b293802","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"hchimachi@gmail.com","afterSubmitCcEmail":"","afterSubmitBccEmail":"","afterSubmitEmailSubject":"contato site skate","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Please fill up the above captcha.","confirmationUrl":""}, '.uagb-block-5b293802' );
+			});
+			 })
